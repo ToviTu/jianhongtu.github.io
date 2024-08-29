@@ -26,7 +26,8 @@ James McGregor, Clayton Farris, Aidan Schneider, Chao Wang, Yuqi Liu, **Jianhong
 * <a href="https://symposium.foragerone.com/fall-2023-undergraduate-research-symposium/presentations/59544" style="text-decoration:none;"> A Machine-learning based Sleep Analysis of Mouse Model of Alzheimer’s Disease. </a> \
 **Jianhong Tu**, James McGregor, David Park, Aidan Schneider, Yuqi Liu, Eva Dyer, Kiran Bhaskaran-Nair,David Holtzmann, Keith Hengen. *WashU Undergraduate Fall Symposium*, 2023. 
 
-
+Efficient Cross-Modal Reasoning Transfer in Vision Language Model \
+**Jianhong Tu**, Peter Ni, Zhihao Yu. *WashU Student Research Internship Program*, 2024.
 
 **Manuscripts**
 ----------------------
